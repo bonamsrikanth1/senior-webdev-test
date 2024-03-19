@@ -5,11 +5,10 @@ Develop a product listing page using React and TypeScript, enabling users to fil
 
 ## Requirements
 
-- **Use Provided Sample JSON Data**: Utilize the given sample JSON as input for your project.
+- **Mock API Call**: Implement a mock API call to simulate fetching product data dynamically. Use the provided sample JSON data to create this mock API call.
 - **Data Modification**: You are encouraged to modify the input test data to display a variety of attributes for each product, ensuring the application can handle and effectively showcase products with diverse attributes.
 
 ## Features
-
 - **Filter**: Users should be able to filter products by colors, sizes, in-stock and out-of-stock status, and price.
 - **Sort**: Provide options for sorting products by name and price, both in ascending and descending order.
 
